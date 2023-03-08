@@ -1,4 +1,4 @@
-module github.com/guisfits/fullcycle-go-grpc
+module github.com/guisfits/go-grpc
 
 go 1.16
 

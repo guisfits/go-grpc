@@ -3,8 +3,8 @@ package service
 import (
 	"context"
 
-	"github.com/guisfits/fullcycle-go-grpc/internal/database"
-	"github.com/guisfits/fullcycle-go-grpc/internal/pb"
+	"github.com/guisfits/go-grpc/internal/database"
+	"github.com/guisfits/go-grpc/internal/pb"
 )
 
 type CategoryService struct {
